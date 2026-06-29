@@ -10,12 +10,12 @@ A local two-player card drafting game built in Unity with C#.
 - **Custom pixel art** — Original character and card artwork drawn in Aseprite
 
 ## Screenshots
-<img width="1920" height="1080" alt="21" src="https://github.com/user-attachments/assets/73f7a98a-6478-4df9-889b-0b33446310bb" />
-<img width="1920" height="1080" alt="22" src="https://github.com/user-attachments/assets/716cb038-4eed-40c8-8ef7-b1ff889e4f57" />
-<img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/82d123e7-a894-41aa-b500-ba1a25593570" />
-<img width="1920" height="1080" alt="24" src="https://github.com/user-attachments/assets/8c00113a-8d91-40d7-b890-c02ed3a01976" />
-<img width="1920" height="1080" alt="25" src="https://github.com/user-attachments/assets/5577ecd1-11b5-49d3-8e25-1b90101afbc3" />
-<img width="1920" height="1080" alt="26" src="https://github.com/user-attachments/assets/10b0bac5-4afc-45ef-8302-72f369726821" />
+<img width="640" height="360" alt="21" src="https://github.com/user-attachments/assets/73f7a98a-6478-4df9-889b-0b33446310bb" />
+<img width="640" height="360" alt="22" src="https://github.com/user-attachments/assets/716cb038-4eed-40c8-8ef7-b1ff889e4f57" />
+<img width="640" height="360" alt="23" src="https://github.com/user-attachments/assets/82d123e7-a894-41aa-b500-ba1a25593570" />
+<img width="640" height="360" alt="24" src="https://github.com/user-attachments/assets/8c00113a-8d91-40d7-b890-c02ed3a01976" />
+<img width="640" height="360" alt="25" src="https://github.com/user-attachments/assets/5577ecd1-11b5-49d3-8e25-1b90101afbc3" />
+<img width="640" height="360" alt="26" src="https://github.com/user-attachments/assets/10b0bac5-4afc-45ef-8302-72f369726821" />
 
 
 ## How to Play
